@@ -1,6 +1,6 @@
-### physics wallah skill - portfolio website project
+# Physics wallah skill - portfolio website project
 
-## live link - https://ashishsuman.me/pw-portfolio/
+### live link - https://ashishsuman.me/pw-portfolio/
 
 screenshot -
 
